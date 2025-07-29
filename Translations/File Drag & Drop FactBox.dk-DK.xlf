@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="da-DK" original="File Drag &amp; Drop FactBox.g.xlf">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 2410145291 - NamedType 624188174" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This file is already attached to the document. Please choose another file.</source>
+          <target state="translated">Filen er allerede knyttet til bilaget. Vælg en anden fil.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Drag&amp;Drop Document Attachment - NamedType DuplicateErr</note>
+        </trans-unit>
+        <trans-unit id="Table 2410145291 - NamedType 238945643" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Please choose a file to attach.</source>
+          <target state="translated">Vælg en fil, der skal vedhæftes.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Drag&amp;Drop Document Attachment - NamedType EmptyFileNameErr</note>
+        </trans-unit>
+        <trans-unit id="Table 2410145291 - NamedType 2456682063" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The selected file has no content. Please choose another file.</source>
+          <target state="translated">Den valgte fil har ikke noget indhold. Vælg en anden fil.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Drag&amp;Drop Document Attachment - NamedType NoContentErr</note>
+        </trans-unit>
+        <trans-unit id="Table 2410145291 - NamedType 47745979" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Please attach a document first.</source>
+          <target state="translated">Vedhæft et bilag først.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Drag&amp;Drop Document Attachment - NamedType NoDocumentAttachedErr</note>
+        </trans-unit>
+        <trans-unit id="Table 1341978004 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Drag&amp;Drop Setup</source>
+          <target state="translated">Træk &amp; Slip Opsætning </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Drag&amp;Drop Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1341978004 - Field 17419004 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Finance</source>
+          <target state="translated">Finans</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Drag&amp;Drop Setup - Field Finance - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1341978004 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <target state="translated">Primærnøgle</target>
+          <target>[NAB: SUGGESTION]Primær nøgle</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Drag&amp;Drop Setup - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1341978004 - Field 1823430260 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase</source>
+          <target state="translated">Køb</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Drag&amp;Drop Setup - Field Purchases - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1341978004 - Field 1406942772 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales</source>
+          <target state="translated">Salg</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Drag&amp;Drop Setup - Field Sales - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2853562223 - NamedType 3764383116" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you want to activate Drag and Drop in all companies?</source>
+          <target state="translated">Vil du aktivere Træk &amp; Slip i alle regnskaber?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit BCW_InitiateCompany - NamedType ConfirmLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 1341978004 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Drag&amp;Drop Setup</source>
+          <target state="translated">Træk &amp; Slip Opsætning </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Drag&amp;Drop Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1341978004 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <target state="translated">Generelt</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Drag&amp;Drop Setup - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1341978004 - Control 17419004 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Finance field.</source>
+          <target state="translated">Angiver værdien af Finansfeltet</target>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Drag&amp;Drop Setup - Control Finance - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1341978004 - Control 1823430260 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Purchases field.</source>
+          <target state="translated">Angiver værdien af Købsfeltet</target>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Drag&amp;Drop Setup - Control Purchases - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1341978004 - Control 1406942772 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Sales field.</source>
+          <target state="translated">Angiver værdien af Salgsfeltet</target>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Drag&amp;Drop Setup - Control Sales - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1341978004 - Control 577209412 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the SystemCreatedAt field.</source>
+          <target state="translated">Angiver værdien af SystemCreatedAtfeltet</target>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Drag&amp;Drop Setup - Control SystemCreatedAt - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1341978004 - Control 4000648066 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the SystemCreatedBy field.</source>
+          <target state="translated">Angiver værdien af  SystemCreatedByfeltet</target>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Drag&amp;Drop Setup - Control SystemCreatedBy - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1341978004 - Control 1367528460 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the SystemId field.</source>
+          <target state="translated">Angiver værdien af SystemIdfeltet</target>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Drag&amp;Drop Setup - Control SystemId - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1341978004 - Control 2453272523 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the SystemModifiedAt field.</source>
+          <target state="translated">Angiver værdien af SystemModifiedAtfeltet</target>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Drag&amp;Drop Setup - Control SystemModifiedAt - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1341978004 - Control 4085837753 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the SystemModifiedBy field.</source>
+          <target state="translated">Angiver værdien af SystemModifiedBy feltet</target>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Drag&amp;Drop Setup - Control SystemModifiedBy - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1341978004 - Action 2482249442 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Initiates setup and activates Drag and Drop in all companies</source>
+          <target state="translated">Laver opsætning og aktiverer Træk &amp; Slip i alle regnskaber.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Drag&amp;Drop Setup - Action ActivateInAllCompanies - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1341978004 - Action 2482249442 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Activate Drag and Drop in all companies</source>
+          <target state="translated">Aktiver Træk &amp; Slip i alle regnskaber</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Drag&amp;Drop Setup - Action ActivateInAllCompanies - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 16415358 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Drag And Drop a Document</source>
+          <target state="translated">Træk og slip et dokument</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IncDocAttachDragAndDropArea - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 16415358 - NamedType 2326848645" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you wish to upload files to %1 Orders</source>
+          <target state="translated">Ønsker du at uploade filer til %1 ordrer?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IncDocAttachDragAndDropArea - NamedType ConfirmMessageLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 16415358 - NamedType 3366238643" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import of %1 files as attachments has finished successfully</source>
+          <target state="translated">Import af %1 filer som vedhæftninger er afsluttet</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IncDocAttachDragAndDropArea - NamedType FinishedMessageLbl2</note>
+        </trans-unit>
+        <trans-unit id="Page 16415358 - Method 2945113528 - NamedType 1665856915" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You can only upload one file for Customer Ledger Entries</source>
+          <target state="translated">Du kan kun vedhæfte én fil pr debitorpost</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IncDocAttachDragAndDropArea - Method AttachDocumentsToCustLedgerEntry - NamedType ErrorLbl3</note>
+        </trans-unit>
+        <trans-unit id="Page 16415358 - Method 2404262498 - NamedType 2633346469" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import of %1 files as attachments for %2 Journal Lines has finished successfully</source>
+          <target state="translated">Import af %1 filer som vedhæftning til %2 kladdelinjer er udført</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IncDocAttachDragAndDropArea - Method AttachDocumentsToGenJnlLine - NamedType FinishedMessageLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 16415358 - Method 1964052989 - NamedType 2303553532" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You can only upload one file for GL Entries</source>
+          <target state="translated">Du kan kun vedhæfte én fil pr finanspost</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IncDocAttachDragAndDropArea - Method AttachDocumentsToGLEntry - NamedType ErrorLbl2</note>
+        </trans-unit>
+        <trans-unit id="Page 16415358 - Method 2734934060 - NamedType 2303553532" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You can only upload one file for GL Entries</source>
+          <target state="translated">Du kan kun vedhæfte én fil pr finanspost</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IncDocAttachDragAndDropArea - Method AttachDocumentsToPostedDocsWithNoIncBuf - NamedType ErrorLbl2</note>
+        </trans-unit>
+        <trans-unit id="Page 16415358 - Control 3414364457 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the File Extensions field.</source>
+          <target state="translated">Angiver værdien af filtype feltet</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IncDocAttachDragAndDropArea - Control File Extension - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 16415358 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the File Name field.</source>
+          <target state="translated">Angiver værdien af filnavn feltet</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IncDocAttachDragAndDropArea - Control Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 16415358 - Action 4288556654 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Deletes all - take care!!!</source>
+          <target state="translated">Sletter alle vedhæftninger for den aktuelle linje</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IncDocAttachDragAndDropArea - Action DeleteAllIncomingDocuments - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 16415358 - Action 4288556654 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delete All Incoming Documents for all tables</source>
+          <target state="translated">Slet alle dokumenter for alle tabeller (Advarsel- til debug)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IncDocAttachDragAndDropArea - Action DeleteAllIncomingDocuments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 16415358 - Action 2773158814 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Deletes all - take care!!!</source>
+          <target state="translated">Sletter alle vedhæftninger for alle associerede kladdelinjer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IncDocAttachDragAndDropArea - Action DeleteAllIncomingDocumentsCurrLine - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 16415358 - Action 2773158814 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delete All Incoming Documents for the current line</source>
+          <target state="translated">Sletter alle vedhæftninger for alle associerede kladdelinjer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IncDocAttachDragAndDropArea - Action DeleteAllIncomingDocumentsCurrLine - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3996203218 - Control 3322554545 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1703860994">
+          <source>Specifies the value of the Dimension Set ID field.</source>
+          <target state="translated">Angiver værdien af feltet Dimension Set Id.</target>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension JobJournal - Control Dimension Set ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1933203344 - Field 596789822 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2733917450">
+          <source>Incoming Document Entry No.</source>
+          <target state="translated">Indgående Bilagsnr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CustomerLedgerEntryExtension - Field Incoming Document Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3844350482 - Field 596789822 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2825951060">
+          <source>Incoming Document Entry No.</source>
+          <target state="translated">Indgående Bilagsnr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension GLEntryExtension - Field Incoming Document Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4208258456 - Field 596789822 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 406314583">
+          <source>Incoming Document Entry No.</source>
+          <target state="translated">Indgående Bilagsnr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension VendorLedgerEntryExtension - Field Incoming Document Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 16415358 - NamedType 3488855479" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The operation has been aborted</source>
+          <target state="translated">Importen er afbrudt.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IncDocAttachDragAndDropArea - NamedType AbortedMesgLbl</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

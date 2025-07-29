@@ -1,0 +1,44 @@
+{
+  "id": "e04a59f0-2fc0-482c-935d-c730b87efded",
+  "name": "File Drag & Drop FactBox",
+  "publisher": "BC World ApS",
+  "version": "1.0.0.5",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "dependencies": 
+  [{
+    "id": "ac762be1-e90f-4a72-b519-612a5e3ddc2e",
+    "publisher": "Microsoft",
+    "name": "OIOUBL",
+    "version": "24.0.0.0"
+  },
+  {
+    "id": "a41b0c3e-bf1c-4c97-ad1b-b430a3933ada",
+    "publisher": "Microsoft",
+    "name": "Audit File Export",
+    "version": "26.0.30643.32695"
+  }
+
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "24.0.0.0",
+  "idRanges": [
+    {
+      "from": 81700,
+      "to": 81750
+    }
+  ],
+  "runtime": "11.0",
+  "features": ["TranslationFile"],
+  "resourceExposurePolicy":
+  {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  }
+}
